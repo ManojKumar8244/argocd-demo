@@ -1,7 +1,5 @@
 # GitOps Application Deployment using ArgoCD on Kubernetes
 
-**Assignment Details:** Project 3.4[cite: 1]
-
 ## Problem Statement Overview
 Manual deployments often lead to difficult rollbacks and inconsistent cluster configurations across environments[cite: 1]. This project implements a GitOps approach to solve these issues by ensuring the Kubernetes cluster state strictly matches the configurations stored in a Git repository.
 
