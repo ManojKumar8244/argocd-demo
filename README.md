@@ -1,4 +1,4 @@
-# Project 3.4 -- GitOps Application Deployment using ArgoCD on Google Kubernetes Engine (GKE)
+# GitOps Application Deployment using ArgoCD on Google Kubernetes Engine (GKE)
 
 ## Objective
 
@@ -330,10 +330,8 @@ Expected:
 
 ------------------------------------------------------------------------
 
-# Deliverables
+# Author
 
--   Screenshot of GKE cluster
--   Screenshot of ArgoCD dashboard
--   Screenshot of successful Sync
--   Screenshot of GitHub repository
--   Screenshot showing application deployment
+**Manoj Kumar Nagamulla**
+
+- GitHub: https://github.com/ManojKumar8244
